@@ -2,7 +2,7 @@
 This repository contains the Figma file for our graduation project, (LearnUp).
 
 **Description:**
-LearnUp is designed to help students manage their universty Journey
+LearnUp is designed to help students manage their university Journey
 # 👥 Team Members:
 - **Ahmed Ayman**  
 - **Eyad Tamer**  
