@@ -13,5 +13,7 @@ LearnUp is designed to help students manage their university Journey
 # 📌 Project Info
 **Project Name:** LearnUp
 **Tools Used:** Figma  
+## 🎯 Project Link
+https://www.figma.com/design/Y6RyL3WnrnibNgVoTkPUGa/Untitled?node-id=0-1&t=T3cYYkbpV230R2MP-1
 ## 🎯 Purpose
 This repository is created to store and manage our design files for the Sharely UI/UX graduation project.
